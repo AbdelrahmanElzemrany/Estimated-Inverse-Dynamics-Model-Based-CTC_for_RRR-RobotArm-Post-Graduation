@@ -1,6 +1,7 @@
-[Click here and press view raw to download and view the 8-minute simulation video explaining the whole process.](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE) 
+[Click here to view the 8-minute simulation video explaining the whole process.](](https://drive.google.com/drive/u/0/folders/1m-NyGNsKJ3eKfLIFNobjmQB3yitPuI5l)) 
 
-# 3r-rrr-robot-estimated-inverse-dynamics-model-based-ctc
+# Estimated-Inverse-Dynamics-Model-Based-CTC_for_RRR-RobotArm
+
 
 An end-to-end parameter estimation framework and model-based Computed Torque Controller (CTC) for a 3R RRR serial robotic manipulator. Built using Simulink, Simscape Multibody, and MATLAB.
 
