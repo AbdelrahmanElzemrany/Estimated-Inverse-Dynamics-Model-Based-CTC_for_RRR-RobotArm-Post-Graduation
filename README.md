@@ -31,7 +31,7 @@ The repository is structured sequentially to take the robot from raw DH paramete
 ### 5. Model-Based Control Integration
 * **`Step_11_GetTheEstimatedINVdynamics.m`**: Executes the `matlabFunctionBlock` utility to automatically generate native Simulink block code.
 * **`Step_12_TheEstimatedINVDynamicsMatricesCTC.slx`**: Integration canvas where previous block placeholders are swapped out for the new estimation subsystems.
-* **`Step_13_Real_RRR_CTC_validation.slx`**: Evaluates the completed Computed Torque Controller (CTC) loop under high-speed trajectory stress testing.
+* **`Step_13_Real_RRR_CTC_validation.slx`**: To comapre The new estimated blocks against ground truth simulink blocks which inculde the full information about the tested RRR robot
 
 ---
 
