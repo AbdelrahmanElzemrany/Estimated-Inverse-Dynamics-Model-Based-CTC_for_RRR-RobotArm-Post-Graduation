@@ -24,7 +24,7 @@ The repository is structured sequentially to take the robot from raw DH paramete
 
 ### 4. Verification & Validation
 * **`Step_7_ValidationOfEstimation.m`**: Processes the independent datasets to compute global tracking fitness metrics (overall 99.95% accuracy).
-* **`Step_8_AdditionalValidatation.slx`**: Visual scope environment that matches the true validation torques directly against the estimated curves.
+* **`Step_8_AdditionalValidation.slx`**: Visual scope environment that matches the true validation torques directly against the estimated curves.
 * **`Step_9_ReformTheEstimatedMatrices.m`**: Algebraically reconstructs the standalone estimated Mass, Coriolis, and Gravity matrices.
 * **`Step_10_CheckPositive.m`**: Runs a safety script to audit the unconstrained model across 27,000 distinct operational joint configurations.
 
