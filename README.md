@@ -39,8 +39,12 @@ This project addresses this core bottleneck by establishing an end-to-end **para
 
 
 
+
+
+
 ----------------------------------
 
+<img width="1284" height="729" alt="Screenshot 2026-07-10 180858" src="https://github.com/user-attachments/assets/4108814c-bcf8-4740-a4bc-77d80b165b21" />
 
 
 
