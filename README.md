@@ -87,6 +87,11 @@ This project addresses this core bottleneck by establishing an end-to-end **para
 ---------------------------
 
 
+![Uploading Screenshot 2026-07-11 000043.png…]()
+
+----------------------------
+
+
 ## 🛠️ Pipeline & File Architecture
 
 The repository is structured sequentially to take the robot from raw DH parameters to a verified trajectory-tracking controller:
