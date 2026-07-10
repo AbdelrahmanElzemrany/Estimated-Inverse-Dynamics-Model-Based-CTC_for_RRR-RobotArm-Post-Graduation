@@ -26,6 +26,19 @@ This project addresses this core bottleneck by establishing an end-to-end **para
 
 ---------------------------------
 
+<img width="746" height="422" alt="Step_5_TestingTheEstimatedParameters" src="https://github.com/user-attachments/assets/14fc03c6-d916-40cc-9621-2081b52cf369" />
+
+
+---------------------------------
+
+
+<img width="1907" height="924" alt="Screenshot 2026-07-10 154140" src="https://github.com/user-attachments/assets/a080f731-e870-41b1-b67e-55a5f7a4a9db" />
+
+
+----------------------------------
+
+
+
 
 ## 🛠️ Pipeline & File Architecture
 
