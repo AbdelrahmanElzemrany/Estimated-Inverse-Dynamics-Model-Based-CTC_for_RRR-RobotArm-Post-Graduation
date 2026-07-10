@@ -91,7 +91,7 @@ Figure 11 Testing the feedback linearzation.
 
 <img width="1907" height="913" alt="Screenshot 2026-07-10 232151" src="https://github.com/user-attachments/assets/a48858a4-e449-4657-b282-0214fd6dfe74" />
 
-Figure 12 A validation that the robot arm joint now acting as independent parts after increasing the amplitude of the base joint position signal(notice the tracking error of joint 2 and 3 does not change.
+Figure 12 A validation that the robot arm joints are now acting as independent parts after increasing the amplitude of the base joint position signal(notice the tracking error of joint 2 and 3 does not change.
 
 ----------------------
 
