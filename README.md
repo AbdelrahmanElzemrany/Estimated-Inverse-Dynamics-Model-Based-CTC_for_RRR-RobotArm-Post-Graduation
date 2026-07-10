@@ -60,7 +60,12 @@ This project addresses this core bottleneck by establishing an end-to-end **para
 
 ---------------------------
 
+
 <img width="1906" height="923" alt="Screenshot 2026-07-10 220902" src="https://github.com/user-attachments/assets/d2f6a744-7bf0-4d84-b133-19f9a804a2a0" />
+
+---------------------------
+<img width="1045" height="613" alt="Screenshot 2026-07-10 230358" src="https://github.com/user-attachments/assets/1b7706b6-05e7-4da2-af10-fe2fffaf36d8" />
+
 
 ---------------------------
 
