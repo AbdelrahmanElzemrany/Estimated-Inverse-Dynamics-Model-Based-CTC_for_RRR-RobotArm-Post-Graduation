@@ -18,11 +18,13 @@ This project addresses this core bottleneck by establishing an end-to-end **para
 
 ---------------------------------
 
-<img width="746" height="422" alt="Step_2_ParameterExcitation" src="https://github.com/user-attachments/assets/6b12da08-7fb7-4197-9839-d1b566fc202e" />
+<img width="746" height="422" alt="Step_2_ParameterExcitation (2)" src="https://github.com/user-attachments/assets/8c68d93c-ee2f-49c1-b468-a8a7043f09e4" />
+
 
 ---------------------------------
 
-<img width="1907" height="928" alt="Screenshot 2026-07-10 151335" src="https://github.com/user-attachments/assets/1b0a413d-7578-475c-8be5-3bb486752fb3" />
+<img width="1907" height="909" alt="Screenshot 2026-07-10 164246" src="https://github.com/user-attachments/assets/34ee5048-7071-4218-a6d5-2c351007fbac" />
+
 
 ---------------------------------
 
