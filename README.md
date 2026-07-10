@@ -11,6 +11,7 @@ Conventional model-free controllers (such as standalone PD loops) suffer from se
 Computed Torque Control (CTC) resolves this limitation by linearizing and decoupling the robot's multi-body physics on the fly. By evaluating the robot's inverse dynamic model in real time, CTC allows the arm to move like a collection of independent, weightless particles in space. However, this high-performance architecture is entirely dependent on having an exceptionally accurate plant model. If the underlying mass, center of mass (COM), and inertial parameters are uncalibrated or unknown, the model-based decoupling loop fails, introducing severe instability and calculation distortions.
 
 This project addresses this core bottleneck by establishing an end-to-end **parameter estimation framework and model-based Computed Torque Control (CTC) pipeline** for a 3-DOF RRR serial manipulator. The framework systematically maps the robot's symbolic regressor equations, maximizes parameter visibility via optimized multi-joint excitation paths, and extracts the dynamic parameters using a constrained convex optimization loop. By converting these verified parameters into active programmatic Simulink blocks, the architecture provides a highly precise, decoupled inverse dynamics control loop capable of tracking complex trajectories with over 99.95% global accuracy.
+
 -------------------------------------
 
 <img width="1261" height="692" alt="Screenshot 2026-07-10 134248" src="https://github.com/user-attachments/assets/d672daa7-b40e-488b-9b67-4d32d16c395a" />
