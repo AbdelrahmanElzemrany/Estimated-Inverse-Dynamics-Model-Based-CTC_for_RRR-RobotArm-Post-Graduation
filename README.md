@@ -16,25 +16,35 @@ This project addresses this core bottleneck by establishing an end-to-end **para
 
 <img width="1261" height="692" alt="Screenshot 2026-07-10 134248" src="https://github.com/user-attachments/assets/d672daa7-b40e-488b-9b67-4d32d16c395a" />
 
+Figure 1 The parameter excitation experiment.
+
 ---------------------------------
 
 <img width="746" height="422" alt="Step_2_ParameterExcitation (2)" src="https://github.com/user-attachments/assets/8c68d93c-ee2f-49c1-b468-a8a7043f09e4" />
 
+Figure 2 A visualization of the excitation experiment.
 
 ---------------------------------
 
 <img width="1907" height="909" alt="Screenshot 2026-07-10 164246" src="https://github.com/user-attachments/assets/34ee5048-7071-4218-a6d5-2c351007fbac" />
 
+Figure 3 The parameter estimation validation against the real torque. 
 
 ---------------------------------
 
 <img width="746" height="422" alt="Step_5_TestingTheEstimatedParameters (1)" src="https://github.com/user-attachments/assets/078e903f-6185-4843-8907-af4c43e70016" />
 
+Figure 4 A validation experiment to test the newly estimated parameter against different state variables and torque data.
 
 ---------------------------------
 
 
+
 <img width="1907" height="927" alt="Screenshot 2026-07-10 164548" src="https://github.com/user-attachments/assets/af7060c8-823f-4418-9790-fdeb919ca276" />
+
+
+Figure 5 The Validation experiment results. 
+
 
 ----------------------------------
 
@@ -42,52 +52,64 @@ This project addresses this core bottleneck by establishing an end-to-end **para
 
 <img width="1391" height="576" alt="Screenshot 2026-07-10 215122" src="https://github.com/user-attachments/assets/930f0eb0-365b-439d-b2ae-0aef2609ade8" />
 
+Figure 6 The system architecture after the integeration of CTC.
 
 ----------------------------------
 
 
 <img width="1173" height="703" alt="Screenshot 2026-07-10 230622" src="https://github.com/user-attachments/assets/90299ecb-ed34-49a2-a721-d3bd53845a5f" />
 
+Figure 7 The CTC with the estimated inverse dynamics matrices.
 
 
 ----------------------------
 
 <img width="900" height="641" alt="Screenshot 2026-07-10 181016" src="https://github.com/user-attachments/assets/d17f72b6-960d-47b9-83f9-81829f632898" />
 
+Figure 8 The outer loop configuration. 
+
 ---------------------------
 
 <img width="1907" height="915" alt="Screenshot 2026-07-10 220300" src="https://github.com/user-attachments/assets/5d1fdbda-c5dc-4646-916f-a862c65d8343" />
+
+Figure 9 Testing the controller at zero joint position signal (Notice the proactive applied torques in the joint 2 and 3).
 
 ---------------------------
 
 <img width="746" height="422" alt="Step_12_TheEstimatedINVDynamicsMatricesCTC" src="https://github.com/user-attachments/assets/072afff9-5418-4800-a183-0289c0b58d83" />
 
-
+Figure 10 A visualization of the robot stance at zero position state.
 
 --------------------------------
 
 
 <img width="1907" height="927" alt="Screenshot 2026-07-10 231951" src="https://github.com/user-attachments/assets/3e338521-7e32-4f1f-a85f-4efb75f6ea7d" />
 
+Figure 11 Testing the feedback linearzation. 
 
 --------------------------------
 
 <img width="1907" height="913" alt="Screenshot 2026-07-10 232151" src="https://github.com/user-attachments/assets/a48858a4-e449-4657-b282-0214fd6dfe74" />
 
+Figure 12 A validation that the robot arm joint now acting as independent parts after increasing the amplitude of the base joint position signal(notice the tracking error of joint 2 and 3 does not change.
 
 ----------------------
 
 <img width="1907" height="910" alt="Screenshot 2026-07-10 233839" src="https://github.com/user-attachments/assets/bdba30af-0fa3-40a2-a39b-ce3c496b9acd" />
 
+Figure 13 An additional validation of the feedback linearzation after increasing the speed of the base joint position signal (The same tracking error in joint 2 and 3).
+
 ---------------------------
 <img width="1079" height="700" alt="Screenshot 2026-07-10 230831" src="https://github.com/user-attachments/assets/6ba3fd4d-793e-49e4-bf99-82f7a23bd22d" />
 
-
+Figuere 14 A ground truth validation by applying the real inverse dynamics matrices CTC with same input joint position command as the last validation.
 
 ---------------------------
 
 
 <img width="1907" height="927" alt="Screenshot 2026-07-11 000043" src="https://github.com/user-attachments/assets/2296d005-a440-422c-842b-6b9e28db1a3f" />
+
+Figure 15 The real CTC configuration gives the same results as the estimated CTC. 
 
 ----------------------------
 
