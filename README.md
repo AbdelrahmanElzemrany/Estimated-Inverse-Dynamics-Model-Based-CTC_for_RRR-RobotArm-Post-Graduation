@@ -21,9 +21,10 @@ Figure 1 The parameter excitation experiment.
 
 ---------------------------------
 
-<img width="746" height="422" alt="Step_2_ParameterExcitation (2)" src="https://github.com/user-attachments/assets/8c68d93c-ee2f-49c1-b468-a8a7043f09e4" />
+![Uploading Step_2_ParameterExcitation-ezgif.com-optimize.gif…]()
 
-Figure 2 A visualization of the excitation experiment.
+
+Figure 2 the excitation experiment.
 
 ---------------------------------
 
