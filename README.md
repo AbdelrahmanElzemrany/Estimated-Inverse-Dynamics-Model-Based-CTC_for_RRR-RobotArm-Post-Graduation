@@ -38,13 +38,14 @@ Figure 3 The parameter estimation validation against the real torque.
 <img width="800" height="439" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/c88f070f-1618-4b70-ba58-18317e9cb4f2" />
 
 
-Figure 4 A validation experiment to test the newly estimated parameter against different state variables and torque data.
+Figure 4  testing the newly estimated parameter against different state variables and torque data.
 
 ---------------------------------
 
 
 
-<img width="1907" height="927" alt="Screenshot 2026-07-10 164548" src="https://github.com/user-attachments/assets/af7060c8-823f-4418-9790-fdeb919ca276" />
+<img width="1906" height="926" alt="Screenshot 2026-07-16 014603" src="https://github.com/user-attachments/assets/7a35ba13-3269-4830-baf2-72e7a908f18d" />
+
 
 
 Figure 5 The Validation experiment results. 
