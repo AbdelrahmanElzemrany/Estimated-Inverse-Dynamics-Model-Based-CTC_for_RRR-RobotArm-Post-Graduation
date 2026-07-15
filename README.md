@@ -28,7 +28,8 @@ Figure 2 the excitation experiment.
 
 ---------------------------------
 
-<img width="1907" height="909" alt="Screenshot 2026-07-10 164246" src="https://github.com/user-attachments/assets/34ee5048-7071-4218-a6d5-2c351007fbac" />
+<img width="1906" height="922" alt="Screenshot 2026-07-16 013410" src="https://github.com/user-attachments/assets/cae8653d-8b50-40d8-a585-4d7074f9766a" />
+
 
 Figure 3 The parameter estimation validation against the real torque. 
 
