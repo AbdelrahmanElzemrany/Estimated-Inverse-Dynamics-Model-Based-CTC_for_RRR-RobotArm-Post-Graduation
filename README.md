@@ -102,7 +102,8 @@ Figure 12 A validation that the robot arm joints are now acting as independent p
 
 ----------------------
 
-<img width="1907" height="910" alt="Screenshot 2026-07-10 233839" src="https://github.com/user-attachments/assets/bdba30af-0fa3-40a2-a39b-ce3c496b9acd" />
+<img width="1906" height="931" alt="Screenshot 2026-07-16 022407" src="https://github.com/user-attachments/assets/2389c9f3-dca9-4761-868e-cb5f4146a377" />
+
 
 Figure 13 An additional validation of the feedback linearzation after increasing the speed of the base joint position signal (The same tracking error in joint 2 and 3).
 
