@@ -110,7 +110,7 @@ Figure 13 An additional validation of the feedback linearzation after increasing
 ---------------------------
 <img width="1079" height="700" alt="Screenshot 2026-07-10 230831" src="https://github.com/user-attachments/assets/6ba3fd4d-793e-49e4-bf99-82f7a23bd22d" />
 
-Figuere 14 A comparison between the estimated matrices CTC the estimate the friction part and the Robotics toolbox blocks that know excatly 
+Figuere 14 A comparison between the estimated matrices CTC with estimated  friction part included within its C matrix and the Robotics toolbox blocks that know excatly 
 the inertial parameters of the robot arm except the added friction to the system
 
 ---------------------------
